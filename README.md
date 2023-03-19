@@ -2,5 +2,5 @@
 
 Trabajo Integrador
 Integrantes:
-Mara Gonzalez
+Mara Gonzalez (DNI: 39120479)
 Tomás Gonzalez Piñeyro
