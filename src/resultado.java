@@ -3,10 +3,10 @@ public class resultado {
         for (equipo e : arr) {
             if (e.getEquipo().equals("Belgrano")) {
                 int goles = e.getGoles();
-                // Procesa el puntaje de Belgrano aquí
+                // Procesa el puntaje de Belgrano.
             } else if (e.getEquipo().equals("talleres")) {
                 int goles = e.getGoles();
-                // Procesa el puntaje de Talleres aquí
+                // Procesa el puntaje de Talleres.
             }
         }
     }
